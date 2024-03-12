@@ -1,3 +1,10 @@
+# [4.2.0](https://github.com/favoyang/TestSemanticRelease/compare/v4.1.0...v4.2.0) (2024-03-12)
+
+
+### Features
+
+* new release ([3fdd4ab](https://github.com/favoyang/TestSemanticRelease/commit/3fdd4ab9ab97132a0ef38cf9758cdb73af918104))
+
 # 4.1.0
 ###### October 23, 2023
 
